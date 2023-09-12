@@ -1,0 +1,76 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    margin: 50px 100px 0px 100px;
+}
+
+.heading{
+    font-weight: 900;
+    color: azure;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px ;
+}
+
+.main-content{
+    font-weight: 600;
+    color: azure;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 2.5rem;
+}
+
+.weapons{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: large;
+    border-radius: 0.3rem;
+    height: 40px;
+    width: 100px;
+    color: azure;
+    background-color: black;
+    font-weight: 900;
+}
+
+.points, .winner{
+    font-weight: 600;
+    color: azure;
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.points-column{
+    width: 50%;
+    float: left;
+}
+
+.result{
+    margin-top: 200px !important;
+    font-weight: 600;
+    color: azure;
+    font-size: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.reload{
+    display: none;
+}
+
+.reload-btn{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
